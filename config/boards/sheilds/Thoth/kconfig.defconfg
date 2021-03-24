@@ -1,9 +1,9 @@
 # Copyright (c) 2020 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-if SHIELD_Thoth
+if SHIELD_thoth
 
 config ZMK_KEYBOARD_NAME
-	default "Thoth"
+	default "thoth"
 
 endif
